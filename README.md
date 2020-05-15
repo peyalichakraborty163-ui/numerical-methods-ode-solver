@@ -8,7 +8,7 @@
 
 This project implements a high-accuracy numerical solver for nonlinear differential equations using the classical **4th-order Runge-Kutta method (RK4)**. It also includes an **adaptive step-size variant** that automatically optimises step size to maintain a user-defined error tolerance — reducing computation time while preserving accuracy.
 
-Developed as part of postgraduate research in numerical methods at Gauhati University.
+Developed as part of Undergraduate research in numerical methods at Gauhati University.
 
 ---
 
