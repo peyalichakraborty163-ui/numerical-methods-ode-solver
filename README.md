@@ -115,4 +115,4 @@ numerical-methods-ode-solver/
 
 **Peyali Chakraborty**  
 M.Sc. Mathematics — Gauhati University  
-[LinkedIn](https://linkedin.com/in/peyalichakraborty-876898151)
+[LinkedIn https://linkedin.com/in/peyalichakraborty-876898151]
